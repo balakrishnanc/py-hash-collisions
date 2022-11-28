@@ -5,7 +5,7 @@ set style line 80 lc rgb "#202020" lt 1 lw 0.5
 set border 3 back ls 80
 
 set style line 81 lc rgb "#808080" lt 1 lw 0.50 dt 3
-set style line 82 lc rgb "#999999" lt 1 lw 0.10 dt 4
+set style line 82 lc rgb "#acacac" lt 1 lw 0.10 dt 2
 
 load 'Set1.plt'
 
